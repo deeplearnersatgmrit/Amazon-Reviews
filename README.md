@@ -10,7 +10,7 @@ Data was scraped from Amazon.com for Fitbit devices.
 ## Results of Pre-trained Models
 
 Sentiment extracted for each topic is summarized below in a heatmap.
-![Net_Sentiment_Scores](https://user-images.githubusercontent.com/47621473/62407353-f8189700-b56b-11e9-8599-df46b84d79b1.png)
+![Net_Sentiment_Scores](https://user-images.githubusercontent.com/47621473/62407421-3e222a80-b56d-11e9-8549-5ef543e9a467.png)
 
 
 ## Authors
